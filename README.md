@@ -1,4 +1,4 @@
-# Speedlog Poller
+# Speedtest Poller
 A Python application that runs a Speedtest and saves results in the Firebase Realtime Database.
 
 # Running a Docker
